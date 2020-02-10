@@ -5,6 +5,7 @@
 $gray: #F4F4F4;
 
 body {
+
   background: $gray; // Using this variable
 }
 
@@ -18,6 +19,7 @@ a {
 
 .container {
  text-align: center;
+  border-left: 10px solid blue;
 }
 
 // .banner {
